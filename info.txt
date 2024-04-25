@@ -1,7 +1,0 @@
-Name: Varattaya
-address:LOL
-phone: 088-09x-xxxx
-
-Name: Varattaya
-address:LOL
-phone: 088-09x-xxxx
